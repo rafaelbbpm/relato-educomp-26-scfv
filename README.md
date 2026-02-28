@@ -1,1 +1,1 @@
-Arquivos referentes ao artigo de Tópicos em I&E.
+Arquivos referentes ao artigo.
